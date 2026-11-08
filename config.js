@@ -2,13 +2,13 @@
 window.CONFIG = {
   // Preço da Super Black Friday.
   PRECO: 297,
-  // Esta versão (centraldevoos.com/black-premium): para quem viu o VIP a R$ 297. Tudo por R$ 297, por 2 anos, sem acesso extra (Pedro, 1/11/2026). A âncora é a soma dos valores × ANOS × ACESSOS.
+  // Esta versão (centraldevoos.com/black-premium): V3 D07 e D11 (08/11, Pedro): o VIP estava R$ 397 por ano; na Black, tudo por R$ 297, por 2 anos.
   ANOS: 2,
   ACESSOS: 1,
   // Parcela no cartão: a de R$ 297 no Hub.la (base/central-de-voos/negocio.md).
   PARCELA: "12x de R$ 30,18",
   // Quanto "só o VIP estava" para este público.
-  PRECO_VIP_ANO: 297,
+  PRECO_VIP_ANO: 397,
 
   // Horário das vagas, todo dia, no horário de Brasília.
   // Antes de ABRE: "as vagas ainda estão fechadas, abrem hoje às 19h" com a contagem. Entre ABRE e FECHA: "vagas abertas, fecham em".
