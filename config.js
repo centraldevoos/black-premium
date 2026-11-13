@@ -6,7 +6,7 @@ window.CONFIG = {
   ANOS: 2,
   ACESSOS: 1,
   // Parcela no cartão: a de R$ 297 no Hub.la (base/central-de-voos/negocio.md).
-  PARCELA: "12x de R$ 30,18",
+  PARCELA: "12x de R$ 30,52",
   // Quanto "só o VIP estava" para este público.
   PRECO_VIP_ANO: 397,
 
